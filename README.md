@@ -1,5 +1,3 @@
-# projeto.mosquiteira
-
 # Automação de Orçamentos para Telas Mosquiteiras
 
 Este projeto é uma automação desenvolvida em Python para auxiliar a empresa do meu irmão, que trabalha com instalação de telas mosquiteiras.
