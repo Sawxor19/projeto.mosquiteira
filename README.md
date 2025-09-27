@@ -2,6 +2,11 @@
 
 Este projeto é uma automação desenvolvida em Python para auxiliar a empresa do meu irmão, que trabalha com instalação de telas mosquiteiras.
 
+## 👤 Autor
+
+Victor Hugo Sanches  
+[LinkedIn](https://www.linkedin.com/in/victor-hugo-sanches-4a6716290/)
+
 ## 💡 Objetivo
 
 Facilitar o processo de orçamento via WhatsApp, automatizando o cálculo dos valores com base nas medidas informadas e no ambiente selecionado.
@@ -24,12 +29,6 @@ As opções de cômodos foram adaptadas com base na rotina real da empresa, torn
 - Python 3
 - Interface por terminal (ou outro, se aplicável)
 - Bibliotecas padrão do Python (sem dependências externas)
-
-## 👤 Autor
-
-Victor Hugo Sanches  
-[LinkedIn](https://www.linkedin.com/in/victor-hugo-sanches-4a6716290/)
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
