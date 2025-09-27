@@ -37,7 +37,7 @@ Victor Hugo Sanches
 
 Foi implementado um novo objetivo que é dar vida a essa automação.
 
-# Objetivo
+## Objetivo
 
 Transformar essa automação em um sistema confiável e intuitivo para ser utilizado no dia-a-dia dos funcionários, garantindo uma praticidade em sua usabilidade.
 
